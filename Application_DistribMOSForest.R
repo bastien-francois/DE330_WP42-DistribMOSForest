@@ -1,4 +1,4 @@
-# Code to apply the DistribMOSForest method (Muschinsky et al., 2023).
+# Code to apply the DistribMOSForest method (Muschinski et al., 2023).
 # Author: Bastien Francois, KNMI, 2024
 
 rm(list=ls())
