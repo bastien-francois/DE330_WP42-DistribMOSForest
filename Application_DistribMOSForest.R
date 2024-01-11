@@ -1,5 +1,5 @@
-# Code to apply the DistribForest method (Schlosser et al., 2019).
-# Author: Bastien Francois, KNMI, 2023
+# Code to apply the DistribMOSForest method (Muschinsky et al., 2023).
+# Author: Bastien Francois, KNMI, 2024
 
 rm(list=ls())
 path_code  <- "/usr/people/francois/Documents/KNMI/SPENS/Code/SPENS"
